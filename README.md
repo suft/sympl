@@ -36,7 +36,7 @@ Download the minified library and include it in your code:
 
 ## Authors
 Sufien Tout ([@suft](https://github.com/suft "Sufien"))  
-Sufien ([@beidouz](https://github.com/beidouz "Beidou"))
+Beidou Zhang ([@beidouz](https://github.com/beidouz "Beidou"))
 
 ## Contribute
 To contribute to Sympl, clone this repo locally and commit your code on a seperate branch.
