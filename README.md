@@ -6,37 +6,37 @@ Sympl is a JavaScript tweening engine easy animations, incorporating optimised R
 ## Installation
 Download the minified library and include it in your code:
 ```html
-<script src="Sympl.js"></script> 
+<script src="Sympl.js"></script>
 ```
 ## Easing Functions
 
 * easeLinear
 * easeInQuad
-* easeOutQuad 
-* easeInCubic 
-* easeOutCubic 
-* easeInQuart 
-* easeOutQuart 
-* easeInQuint 
-* easeOutQuint 
+* easeOutQuad
+* easeInCubic
+* easeOutCubic
+* easeInQuart
+* easeOutQuart
+* easeInQuint
+* easeOutQuint
 * easeInSine
-* easeOutSine 
-* easeInOutSine 
-* easeInExpo 
-* easeOutExpo 
-* easeInCirc 
-* easeOutCirc 
-* easeInElastic 
-* easeOutElastic 
-* easeInBack 
+* easeOutSine
+* easeInOutSine
+* easeInExpo
+* easeOutExpo
+* easeInCirc
+* easeOutCirc
+* easeInElastic
+* easeOutElastic
+* easeInBack
 * easeOutBack
-* easeInBounce 
-* easeOutBounce 
+* easeInBounce
+* easeOutBounce
 * easeInOutBounce
 
 ## Authors
-Sufien Tout ([@suft](https://github.com/suft "GitHub"))  
-Aidan Martins ([@aidan729](https://github.com/aidan729 "GitHub"))
+Sufien Tout ([@suft](https://github.com/suft "Sufien"))  
+Sufien ([@beidouz](https://github.com/beidouz "Beidou"))
 
 ## Contribute
 To contribute to Sympl, clone this repo locally and commit your code on a seperate branch.
